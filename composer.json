@@ -1,0 +1,11 @@
+{
+    "name": "mib/php-component-database",
+    "description": "simple database wrapper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mib\\Component\\Database\\": "src/"
+        }
+    }
+}
